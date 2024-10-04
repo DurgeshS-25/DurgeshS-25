@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Durgesh Sakhardande</h1>
 <h3 align="center">A passonate data enthusiast</h3>
-<img align= "right", alt = "coding_with_Durgesh", width = "400", src ="[https://thumbs.gfycat.com/EvilNextDevilfish-small.gif](https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif)">
+<img align= "right", alt = "coding_with_Durgesh", width = "800", src ="[https://thumbs.gfycat.com/EvilNextDevilfish-small.gif](https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durgeshs-25&label=Profile%20views&color=0e75b6&style=flat" alt="durgeshs-25" /> </p>
 
