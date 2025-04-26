@@ -107,24 +107,24 @@ graph LR
 ## 🌟 Highlighted Projects
 
 <div align="center">
+  <!-- First row of projects -->
   <a href="https://github.com/shalakapadalkar16/Intelligent-Research-Assistant">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DurgeshS-25&repo=intelligent-research-assistant&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shalakapadalkar16&repo=Intelligent-Research-Assistant&theme=tokyonight" />
   </a>
   <a href="https://github.com/DurgeshS-25/Adventure-works-Piepline">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DurgeshS-25&repo=adventureworks-pipeline&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DurgeshS-25&repo=Adventure-works-Piepline&theme=tokyonight" />
   </a>
 </div>
 <br />
 <div align="center">
+  <!-- Second row of projects -->
   <a href="https://github.com/DurgeshS-25/Reddit-Pipeline">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DurgeshS-25&repo=reddit-data-pipeline&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DurgeshS-25&repo=Reddit-Pipeline&theme=tokyonight" />
   </a>
   <a href="https://github.com/DurgeshS-25/Urban-Traffic-Collision-Pipeline">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DurgeshS-25&repo=traffic-collision-pipeline&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DurgeshS-25&repo=Urban-Traffic-Collision-Pipeline&theme=tokyonight" />
   </a>
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📚 Education & Certifications
 
