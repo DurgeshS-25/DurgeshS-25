@@ -138,19 +138,19 @@ graph LR
   
   <br>
   
-  <!-- Education with consistent styling -->
+  <!-- Education with repository images -->
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <!-- Northeastern University -->
-        <img align="center" width="120" height="120" src="https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/Northeastern_University_seal.svg/1200px-Northeastern_University_seal.svg.png" alt="Northeastern University" style="border-radius: 10px;" />
+        <!-- Northeastern University using repo image -->
+        <img align="center" width="120" height="120" src="./images/northeastern.png" alt="Northeastern University" style="border-radius: 10px;" />
         <br><br>
         <h3>Master of Science in Information Systems</h3>
         <p>Northeastern University • 2023-2025</p>
       </td>
       <td width="50%" align="center">
-        <!-- University of Mumbai -->
-        <img align="center" width="120" height="120" src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/University_of_Mumbai_Logo.svg/1200px-University_of_Mumbai_Logo.svg.png" alt="University of Mumbai" style="border-radius: 10px;" />
+        <!-- University of Mumbai using repo image -->
+        <img align="center" width="120" height="120" src="./images/mumbai.jpg" alt="University of Mumbai" style="border-radius: 10px;" />
         <br><br>
         <h3>Bachelor of Science in Electronics and Telecommunication Engineering</h3>
         <p>University of Mumbai • 2018-2022</p>
