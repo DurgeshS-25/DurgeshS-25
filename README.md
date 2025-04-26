@@ -4,10 +4,10 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/durgesh-s/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://DurgeshS-25.github.io/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakhardande.d@northeastern.edu)
-[![Resume](https://img.shields.io/badge/Resume-00A98F?style=for-the-badge&logo=readme&logoColor=white)](https://your-resume-link.pdf)
+[![Resume](https://img.shields.io/badge/Resume-00A98F?style=for-the-badge&logo=readme&logoColor=white)](https://drive.google.com/file/d/1N6nsE9O7CNgyqlcm_octnmB_DSe11fdz/view?usp=sharing)
 
 </div>
 
@@ -27,7 +27,7 @@ I'm a **Data Engineer** specializing in cloud-based data solutions with expertis
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-- 🔭 I'm currently pursuing my **MS in Data Science Engineering** at Northeastern University
+- 🔭 I'm currently pursuing my **MS in Information Systems** at Northeastern University
 - 🌱 I'm exploring **Streaming Data Architectures** and **MLOps Pipelines**
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/DurgeshS-25)
 - 📫 How to reach me: **sakhardande.d@northeastern.edu**
@@ -107,19 +107,19 @@ graph LR
 ## 🌟 Highlighted Projects
 
 <div align="center">
-  <a href="https://github.com/DurgeshS-25/intelligent-research-assistant">
+  <a href="https://github.com/shalakapadalkar16/Intelligent-Research-Assistant">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DurgeshS-25&repo=intelligent-research-assistant&theme=tokyonight" />
   </a>
-  <a href="https://github.com/DurgeshS-25/adventureworks-pipeline">
+  <a href="https://github.com/DurgeshS-25/Adventure-works-Piepline">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DurgeshS-25&repo=adventureworks-pipeline&theme=tokyonight" />
   </a>
 </div>
 <br />
 <div align="center">
-  <a href="https://github.com/DurgeshS-25/reddit-data-pipeline">
+  <a href="https://github.com/DurgeshS-25/Reddit-Pipeline">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DurgeshS-25&repo=reddit-data-pipeline&theme=tokyonight" />
   </a>
-  <a href="https://github.com/DurgeshS-25/traffic-collision-pipeline">
+  <a href="https://github.com/DurgeshS-25/Urban-Traffic-Collision-Pipeline">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DurgeshS-25&repo=traffic-collision-pipeline&theme=tokyonight" />
   </a>
 </div>
