@@ -129,16 +129,28 @@ graph LR
 ## 📚 Education & Certifications
 
 <div align="center">
+  <!-- AWS Certification -->
+  <div>
+    <img width="120" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" />
+    <h3>AWS Certified Cloud Practitioner</h3>
+    <p>Amazon Web Services • 2024</p>
+  </div>
+  
+  <br>
+  
+  <!-- Education with consistent styling -->
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <img align="center" width="100%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Northeastern_seal.svg/1200px-Northeastern_seal.svg.png" height="100" alt="Northeastern University" />
+        <!-- Northeastern University -->
+        <img align="center" width="120" height="120" src="https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/Northeastern_University_seal.svg/1200px-Northeastern_University_seal.svg.png" alt="Northeastern University" style="border-radius: 10px;" />
         <br><br>
-        <h3>Master of Science in Data Science Engineering</h3>
+        <h3>Master of Science in Information Systems</h3>
         <p>Northeastern University • 2023-2025</p>
       </td>
       <td width="50%" align="center">
-        <img align="center" width="100%" src="https://upload.wikimedia.org/wikipedia/en/thumb/8/84/University_of_Mumbai_logo.svg/1200px-University_of_Mumbai_logo.svg.png" height="100" alt="University of Mumbai" />
+        <!-- University of Mumbai -->
+        <img align="center" width="120" height="120" src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/University_of_Mumbai_Logo.svg/1200px-University_of_Mumbai_Logo.svg.png" alt="University of Mumbai" style="border-radius: 10px;" />
         <br><br>
         <h3>Bachelor of Science in Electronics and Telecommunication Engineering</h3>
         <p>University of Mumbai • 2018-2022</p>
