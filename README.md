@@ -159,14 +159,6 @@ graph LR
   </table>
 </div>
 
-<div align="center">
-  <img width="120" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" />
-  <h3>AWS Certified Cloud Practitioner</h3>
-  <p>Amazon Web Services • 2024</p>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 📊 GitHub Analytics
 
 <div align="center">
