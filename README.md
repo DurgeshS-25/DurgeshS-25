@@ -19,9 +19,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=DurgeshS-25&theme=nord&column=7&margin-w=15&margin-h=15" alt="DurgeshS-25 Trophies" />
 </div>
 
-<img align="right" height="270" alt="Data Engineer" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHFwdXo3dzY5aGgwbW42aHphMHV6NndzMnJvenRtanc3Ymd5OHBuYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M9kgjEsLG6LMbYC9dl/giphy.gif"/>
-
 ## 👨‍💻 About Me
+
+<img align="right" height="250" width="400" alt="Software Engineer" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHFwdXo3dzY5aGgwbW42aHphMHV6NndzMnJvenRtanc3Ymd5OHBuYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M9kgjEsLG6LMbYC9dl/giphy.gif" style="border-radius: 15px; margin-left: 20px;"/>
 
 I'm a **Software Engineer** specializing in cloud-based data solutions with expertise across AWS and Azure platforms. My passion lies in architecting end-to-end data pipelines that transform raw information into actionable business intelligence.
 
