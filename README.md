@@ -23,7 +23,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Data Engineer** specializing in cloud-based data solutions with expertise across AWS and Azure platforms. My passion lies in architecting end-to-end data pipelines that transform raw information into actionable business intelligence.
+I'm a **Software Engineer** specializing in cloud-based data solutions with expertise across AWS and Azure platforms. My passion lies in architecting end-to-end data pipelines that transform raw information into actionable business intelligence.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
