@@ -172,6 +172,19 @@ graph LR
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DurgeshS-25&theme=tokyonight&hide_border=false" alt="DurgeshS-25's Contribution Streak" />
 </div>
 
+<!-- NEW: GitHub Contribution Graph -->
+<div align="center">
+  <h3>📈 Contribution Activity</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DurgeshS-25&theme=tokyo-night&bg_color=1a1b27&color=6A5ACD&line=6A5ACD&point=ffffff&area=true&hide_border=true" alt="DurgeshS-25's Contribution Graph" />
+</div>
+
+<!-- Alternative Contribution Calendar (choose one of the above options) -->
+<!-- 
+<div align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=DurgeshS-25&theme=github-compact&bg_color=1a1b27&color=6A5ACD&line=6A5ACD&point=ffffff" alt="DurgeshS-25's Contribution Graph" />
+</div>
+-->
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🚀 Current Focus
