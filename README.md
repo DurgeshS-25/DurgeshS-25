@@ -183,7 +183,7 @@ graph LR
 
 <!-- Self-rendered, self-hosted living terminal contribution graph -->
 <div align="center">
-  <h3><code>$ cat contributions.log</code></h3>
+  <h3><code> Contributions.log</code></h3>
   <img src="./graph.svg" width="820" />
 </div>
 
