@@ -1,0 +1,5 @@
+# pull_contributions.py and render_graph.py only use the Python standard
+# library (urllib, html.parser, json, datetime). No extra packages needed --
+# this file exists so the workflow step has something to point at, and
+# stays easy to extend later if you'd rather use lxml/httpx instead of
+# urllib + html.parser.

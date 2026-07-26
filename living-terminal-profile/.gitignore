@@ -1,0 +1,19 @@
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# Intermediate art-pipeline artifact — only needed locally to produce
+# portrait.svg, not needed in the repo itself
+assets/photo-ready.png
+
+# Preview frames from render_panel.py's PREVIEW=1 mode
+*.preview.svg

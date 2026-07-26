@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="284" viewBox="0 0 460 284">
+<style>.lbl { font-family: SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace; font-size: 13px; fill: #7d8590; }.val { font-family: SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace; font-size: 13.5px; fill: #e6edf3; font-weight: 600; }.hdr { font-family: SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace; font-size: 13px; fill: #4dabf7; }</style>
+<rect x="1" y="1" width="458" height="282" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<rect x="1" y="1" width="458" height="40" rx="8" fill="#30363d" opacity="0.4"/>
+<circle cx="18" cy="21.0" r="5" fill="#ff5f56"/>
+<circle cx="34" cy="21.0" r="5" fill="#ffbd2e"/>
+<circle cx="50" cy="21.0" r="5" fill="#27c93f"/>
+<text x="230.0" y="25.0" text-anchor="middle" class="hdr">durgesh@profile</text>
+<g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" begin="0ms" dur="300ms" fill="freeze" />
+  <text x="20" y="74" class="lbl">role:   </text>
+  <text x="100" y="74" class="val">Backend Engineer</text>
+</g>
+<g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" begin="220ms" dur="300ms" fill="freeze" />
+  <text x="20" y="108" class="lbl">focus:  </text>
+  <text x="100" y="108" class="val">APIs, Services &amp; Databases</text>
+</g>
+<g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" begin="440ms" dur="300ms" fill="freeze" />
+  <text x="20" y="142" class="lbl">stack:  </text>
+  <text x="100" y="142" class="val">Java · Spring Boot · C# · Python</text>
+</g>
+<g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" begin="660ms" dur="300ms" fill="freeze" />
+  <text x="20" y="176" class="lbl">frontend:</text>
+  <text x="100" y="176" class="val">Angular · JavaScript</text>
+</g>
+<g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" begin="880ms" dur="300ms" fill="freeze" />
+  <text x="20" y="210" class="lbl">data:   </text>
+  <text x="100" y="210" class="val">SQL · PostgreSQL · MySQL</text>
+</g>
+<g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" begin="1100ms" dur="300ms" fill="freeze" />
+  <text x="20" y="244" class="lbl">now:    </text>
+  <text x="100" y="244" class="val">Building scalable backend systems</text>
+</g>
+</svg>
