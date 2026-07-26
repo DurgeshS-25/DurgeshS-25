@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/durgesh-s/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://durgeshs-25.github.io/portfolio-01/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakhardande.d@northeastern.edu)
@@ -19,7 +19,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=DurgeshS-25&theme=nord&column=7&margin-w=15&margin-h=15" alt="DurgeshS-25 Trophies" />
 </div>
 
-## About me 
+## $ whoami --verbose
 
 <div align="center">
 <table>
@@ -42,7 +42,7 @@ I'm a **Backend Engineer** who builds robust, scalable services — from REST AP
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 💻 Tech Stack
+## 💻 Tech Stack 
 
 <div align="center">
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
@@ -116,23 +116,28 @@ graph LR
 ## 🌟 Highlighted Projects
 
 <div align="center">
-  <!-- First row of projects -->
-  <a href="https://github.com/shalakapadalkar16/Intelligent-Research-Assistant">
-    <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=shalakapadalkar16&repo=Intelligent-Research-Assistant&theme=tokyonight](https://github.com/shalakapadalkar16/Intelligent-Research-Assistant)" />
-  </a>
-  <a href="https://github.com/DurgeshS-25/Adventure-works-Piepline">
-    <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=DurgeshS-25&repo=Adventure-works-Piepline&theme=tokyonight](https://github.com/DurgeshS-25/Urban-Traffic-Collision-Pipeline)" />
-  </a>
-</div>
-<br />
-<div align="center">
-  <!-- Second row of projects -->
-  <a href="https://github.com/DurgeshS-25/Reddit-Pipeline">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DurgeshS-25&repo=Reddit-Pipeline&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/DurgeshS-25/Urban-Traffic-Collision-Pipeline">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DurgeshS-25&repo=Urban-Traffic-Collision-Pipeline&theme=tokyonight" />
-  </a>
+<table>
+<tr>
+<td width="50%" valign="top">
+  <h3><a href="https://github.com/DurgeshS-25/Adventure-works-Piepline">Adventure-works-Piepline</a></h3>
+  <p>End-to-end data pipeline built on the classic Adventure Works dataset.</p>
+</td>
+<td width="50%" valign="top">
+  <h3><a href="https://github.com/DurgeshS-25/Reddit-Pipeline">Reddit-Pipeline</a></h3>
+  <p>Data pipeline that ingests and processes Reddit data.</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <h3><a href="https://github.com/DurgeshS-25/Urban-Traffic-Collision-Pipeline">Urban-Traffic-Collision-Pipeline</a></h3>
+  <p>Pipeline analyzing urban traffic collision data.</p>
+</td>
+<td width="50%" valign="top">
+  <h3><a href="https://github.com/shalakapadalkar16/Intelligent-Research-Assistant">Intelligent-Research-Assistant</a></h3>
+  <p>Collaborative project on an AI-powered research assistant.</p>
+</td>
+</tr>
+</table>
 </div>
 
 ## 📚 Education & Certifications
@@ -144,11 +149,10 @@ graph LR
     <h3>AWS Certified Cloud Practitioner</h3>
     <p>Amazon Web Services • 2024</p>
   </div>
-
+  
   <br>
-
+  
   <!-- Education with repository images -->
-
   <table border="0">
     <tr>
       <td width="50%" align="center">
@@ -171,11 +175,9 @@ graph LR
 
 ## 📊 GitHub Analytics
 
+<!-- Self-rendered, self-hosted stats + top languages (no external stats service) -->
 <div align="center">
-  <a href="https://github.com/DurgeshS-25">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DurgeshS-25&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="DurgeshS-25's GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DurgeshS-25&layout=compact&langs_count=7&theme=tokyonight" alt="DurgeshS-25's Top Languages"/>
-  </a>
+  <img src="./stats.svg" width="460" />
 </div>
 
 <div align="center">
@@ -183,7 +185,6 @@ graph LR
 </div>
 
 <!-- Self-rendered, self-hosted living terminal contribution graph -->
-
 <div align="center">
   <h3><code>$ cat contributions.log</code></h3>
   <img src="./graph.svg" width="820" />

@@ -1,0 +1,18 @@
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# Intermediate art-pipeline artifact
+assets/photo-ready.png
+
+# Preview frames from render_panel.py's PREVIEW=1 mode
+*.preview.svg
