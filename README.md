@@ -15,9 +15,6 @@
   <img src="https://komarev.com/ghpvc/?username=DurgeshS-25&label=Profile%20views&color=6A5ACD&style=flat" alt="DurgeshS-25" />
 </p>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DurgeshS-25&theme=nord&column=7&margin-w=15&margin-h=15" alt="DurgeshS-25 Trophies" />
-</div>
 
 ## About me 
 
