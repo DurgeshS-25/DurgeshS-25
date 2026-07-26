@@ -118,10 +118,10 @@ graph LR
 <div align="center">
   <!-- First row of projects -->
   <a href="https://github.com/shalakapadalkar16/Intelligent-Research-Assistant">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shalakapadalkar16&repo=Intelligent-Research-Assistant&theme=tokyonight" />
+    <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=shalakapadalkar16&repo=Intelligent-Research-Assistant&theme=tokyonight](https://github.com/shalakapadalkar16/Intelligent-Research-Assistant)" />
   </a>
   <a href="https://github.com/DurgeshS-25/Adventure-works-Piepline">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DurgeshS-25&repo=Adventure-works-Piepline&theme=tokyonight" />
+    <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=DurgeshS-25&repo=Adventure-works-Piepline&theme=tokyonight](https://github.com/DurgeshS-25/Urban-Traffic-Collision-Pipeline)" />
   </a>
 </div>
 <br />
