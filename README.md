@@ -5,8 +5,8 @@
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/durgesh-s/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://durgeshs-25.github.io/portfolio-01/](https://durgesh25.netlify.app/))
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakhardande.d@northeastern.edu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://durgesh25.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:durgeshss25@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-00A98F?style=for-the-badge&logo=readme&logoColor=white)](https://drive.google.com/file/d/1N6nsE9O7CNgyqlcm_octnmB_DSe11fdz/view?usp=sharing)
 
 </div>
