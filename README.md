@@ -19,7 +19,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=DurgeshS-25&theme=nord&column=7&margin-w=15&margin-h=15" alt="DurgeshS-25 Trophies" />
 </div>
 
-## $ whoami --verbose
+## About me 
 
 <div align="center">
 <table>
