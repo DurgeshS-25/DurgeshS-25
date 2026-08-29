@@ -382,6 +382,6 @@
 <text x="132" y="141" class="stat">More</text>
 </g>
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1745ms" dur="300ms" fill="freeze" />
-<text x="20" y="152" class="stat-strong">163 contributions in the last year  ·  current streak 37d  ·  longest streak 37d  ·  busiest on Thursday</text>
+<text x="20" y="152" class="stat-strong">163 contributions in the last year  ·  current streak 0d  ·  longest streak 37d  ·  busiest on Thursday</text>
 </g>
 </svg>
