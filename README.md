@@ -1,17 +1,8 @@
-<h1 align="center">Durgesh Sakhardande</h1>
-<p align="center">Backend Engineer · Java · C#/.NET · Python · SQL</p>
+# Durgesh Sakhardande
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/durgesh-s/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://durgesh25.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:durgeshss25@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://drive.google.com/file/d/1N6nsE9O7CNgyqlcm_octnmB_DSe11fdz/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-00A98F?style=flat&logo=readme&logoColor=white" alt="Resume" /></a>
-</p>
+Backend Engineer · Java · C#/.NET · Python · SQL
 
-<p align="center">
-  <img src="./portrait.svg" width="360" />
-  <img src="./sysinfo.svg" width="460" />
-</p>
+[LinkedIn](https://www.linkedin.com/in/durgesh-s/) · [Portfolio](https://durgesh25.netlify.app/) · [Email](mailto:durgeshss25@gmail.com) · [Resume](https://drive.google.com/file/d/1N6nsE9O7CNgyqlcm_octnmB_DSe11fdz/view?usp=sharing)
 
 ## About
 
@@ -22,9 +13,9 @@ I build backend services: REST APIs, the databases behind them, and the data pip
 
 ## Tech
 
-**Backend:** Java, Spring Boot, C#, .NET, Python, FastAPI
-**Data:** PostgreSQL, MySQL, SQL Server, MongoDB, Redis
-**Other:** Angular, TypeScript, Docker, Git
+- **Backend:** Java, Spring Boot, C#, .NET, Python, FastAPI
+- **Data:** PostgreSQL, MySQL, SQL Server, MongoDB, Redis
+- **Other:** Angular, TypeScript, Docker, Git
 
 ## Projects
 
@@ -35,11 +26,7 @@ I build backend services: REST APIs, the databases behind them, and the data pip
 | [Urban Traffic Collision Pipeline](https://github.com/DurgeshS-25/Urban-Traffic-Collision-Pipeline) | Analyzes urban traffic collision data |
 | [Intelligent Research Assistant](https://github.com/shalakapadalkar16/Intelligent-Research-Assistant) | AI-powered research assistant (team project) |
 
-## Activity
+## Outside of code
 
-<p align="center">
-  <img src="./stats.svg" width="460" />
-</p>
-<p align="center">
-  <img src="./graph.svg" width="820" />
-</p>
+- 🍳 **Cooking**
+- 📚 **Reading**, currently *The Dresden Files* by Jim Butcher and *Fairy Tale* by Stephen King
