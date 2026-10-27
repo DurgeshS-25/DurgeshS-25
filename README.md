@@ -2,7 +2,7 @@
 
 Backend Engineer · Java · C#/.NET · Python · SQL
 
-[LinkedIn](https://www.linkedin.com/in/durgesh-s/) · [Portfolio](https://durgesh25.netlify.app/) · [Email](mailto:durgeshss25@gmail.com) · [Resume](https://drive.google.com/file/d/1N6nsE9O7CNgyqlcm_octnmB_DSe11fdz/view?usp=sharing)
+[LinkedIn](https://www.linkedin.com/in/durgesh-s/) · [Portfolio](https://dssdev.xyz/) · [Email](mailto:durgeshss25@gmail.com) · [Resume](https://drive.google.com/file/d/1N6nsE9O7CNgyqlcm_octnmB_DSe11fdz/view?usp=sharing)
 
 ## About
 
